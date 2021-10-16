@@ -38,11 +38,10 @@ Hi, I'am Rachana, a sophomore at Thapar Institute of Engineering and Technology(
 <img alt="insta" src="https://user-images.githubusercontent.com/71558587/137590876-b0c925ad-7bab-4e98-b15b-5f4d10cb2d27.png" width="50px" height="50px"></a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvnJMrWbRZjHKqkBHhgXmsnbCzQtDLlQNVCMvtVNwTrDKmfCcfLlFDtrnSmtMLgKrxBLKL">
 <img alt="mail" src="https://user-images.githubusercontent.com/71558587/137591130-514fcc5a-c0de-4583-88db-6519f1f99c0c.png" width="50px" height="50px"></a>
-    <a href="www.linkedin.com/in/rachana-9527961ba">
-<img alt="linkedin" src="https://user-images.githubusercontent.com/71558587/137591199-e6337365-472d-4cc5-a9fe-e6406b1d6e32.png" width="50px" height="50px"></a>
-
-
-
+  
+  
+  <a href="https://www.linkedin.com/in/rachana-9527961bal">
+<img alt="mail" src="https://user-images.githubusercontent.com/71558587/137591199-e6337365-472d-4cc5-a9fe-e6406b1d6e32.png" width="50px" height="50px"></a>
 
 <!-- **rachana1009/rachana1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
