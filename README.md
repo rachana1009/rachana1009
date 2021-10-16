@@ -9,7 +9,7 @@ Hi, I'am Rachana, a sophomore at Thapar Institute of Engineering and Technology(
 <li>🌱 I’m currently learning UI/UX, Data Structures and Algorithm and pytorch
 <li>👯 I’m looking to collaborate on front-end projects
 <li>🤔 I’m looking for help with DSA and Deep Learning
-<li>📫 How to reach me: <a href="rachana100902@gmail.com"> rachana100902@gmail.com </a>
+<li>📫 How to reach me: <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvnJMrWbRZjHKqkBHhgXmsnbCzQtDLlQNVCMvtVNwTrDKmfCcfLlFDtrnSmtMLgKrxBLKL"> rachana100902@gmail.com </a>
   
 ---
   
