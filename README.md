@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rachana!
+![GitHub followers](https://img.shields.io/github/followers/rachana1009?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/rachana1009/rachana1009?label=People%20visited%20the%20profile&style=social)
 <!--
 **rachana1009/rachana1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
