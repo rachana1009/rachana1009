@@ -1,4 +1,4 @@
-### Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rachana!
+### Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Rachana!
 ---
 ![GitHub followers](https://img.shields.io/github/followers/rachana1009?style=social) <img src="https://camo.githubusercontent.com/b3fc6f4c56e05c597f9573c9b626438a58a1ea77f07a2f8fa17e254197aba816/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7072616b6861722d313631266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174">
 
