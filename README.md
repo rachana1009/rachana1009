@@ -2,13 +2,13 @@
 ---
 ![GitHub followers](https://img.shields.io/github/followers/rachana1009?style=social) <img src="https://camo.githubusercontent.com/b3fc6f4c56e05c597f9573c9b626438a58a1ea77f07a2f8fa17e254197aba816/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7072616b6861722d313631266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174">
 
-Hi, I'am Rachana, a sophomore at Thapar Institute of Engineering and Technology(TIET). I am a FRONT-END DEVELOPER from India. Currently, I'm a member of ACM-Thapar. 
+Hi, I'am Rachana, a Junior at Thapar Institute of Engineering and Technology(TIET). I am a FRONT-END DEVELOPER from India. Currently, I'm a member of ACM-Thapar. 
 
 <h3>My Tech Stacks Update </h3>
 <li>🔭 I’m currently working on Front-End projects</li>
-<li>🌱 I’m currently learning UI/UX, Data Structures and Algorithm and pytorch
+<li>🌱 I’m currently learning UI/UX, Data Structures and Algorithm 
 <li>👯 I’m looking to collaborate on front-end projects
-<li>🤔 I’m looking for help with DSA and Deep Learning
+<li>🤔 I’m looking for help with DSA
 <li>📫 How to reach me: <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvnJMrWbRZjHKqkBHhgXmsnbCzQtDLlQNVCMvtVNwTrDKmfCcfLlFDtrnSmtMLgKrxBLKL"> rachana100902@gmail.com </a>
   
 ---
